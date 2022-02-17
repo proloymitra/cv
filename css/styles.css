@@ -136,3 +136,10 @@ hr {
 .footer_text {
   color: #EAF6F6;
 }
+
+a {
+  margin: 10px 20px;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+  
